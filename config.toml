@@ -20,7 +20,7 @@ title = "DevRel Collective"
     description = "DevRel Collective 🥑- and So Can You! exists to facilitate sharing information, resources, and encouragement among the Developer Relations community."
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-    favicon = "images/favicon.png"
+    favicon = "images/favicon.ico"
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
