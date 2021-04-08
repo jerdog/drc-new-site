@@ -1,3 +1,9 @@
 [submodule "hugo-fresh"]
 	path = themes/hugo-fresh
 	url = https://github.com/StefMa/hugo-fresh.git
+[submodule "themes/SimpleIntro"]
+	path = themes/SimpleIntro
+	url = https://github.com/gangjun06/SimpleIntro
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://github.com/your-identity/hugo-theme-dimension.git
