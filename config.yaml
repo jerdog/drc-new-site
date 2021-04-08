@@ -1,7 +1,7 @@
-baseURL: http://something-fresh.org/
+baseURL: https://devrelcollective.fun/
 languageCode: en-us
 title: DevRel Collective
-theme: hugo-fresh
+theme: SimpleIntro
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
 disableKinds:
