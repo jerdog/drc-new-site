@@ -6,7 +6,9 @@ image: images/profile.png
 {{< button url="https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c" target="_blank" class="btn-outline" value="What is Developer Advocacy?" >}}
 
 {{< button url="http://devrelweekly.com/" target="_blank" class="btn-outline" value="DevRelWeekly Newsletter" >}}
+
 {{< button url="http://www.artofcommunityonline.org/" target="_blank" class="btn-outline " value="Jono Bacon's \"Art of Community\"" >}}
+
 {{< button url="https://www.feverbee.com/buzzingcommunities/" target="_blank" class="btn-outline" value="\"Buzzing Communities\" - Richard Millington" >}}
 
 {{< button url="http://developer-evangelism.com/" target="_blank" class="btn-outline" value="Chris Heilmann's Developer Evangelism Handbook" >}}

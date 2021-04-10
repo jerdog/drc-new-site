@@ -645,6 +645,24 @@ input, select, textarea {
 			height: auto;
 		}
 
+    @media screen and (max-width: 736px) {
+
+			.icon > img {
+				max-width: 9rem;
+        max-height: 9rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			.icon > img {
+				max-width: 9rem;
+        max-height: 9rem;
+			}
+
+		}
+
 /* Image */
 
 	.image {
@@ -1048,6 +1066,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+    max-width: 90%;
 	}
 
 		input[type="submit"]:hover,
@@ -1688,6 +1707,10 @@ input, select, textarea {
     color: #fff;
     background: 0 0;
     transition: all .3s ease-in-out;
+    max-width: 80%;
+    align-self: center;
+    display: block;
+    text-align: center;
 }
 
 .btn-outline:hover,
